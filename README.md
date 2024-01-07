@@ -35,6 +35,8 @@
 - **Workout Scheduling:** Schedule and manage workout sessions.
 - **Equipment Management:** Keep a record of gym equipment.
 - **Reports:** Generate reports for various aspects of gym management.
+- **Setting:** Update colors of system .
+
 
 <!-- ## Screenshots -->
 <!-- ![Example screenshot](./img/screenshot.png) -->
