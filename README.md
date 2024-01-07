@@ -42,7 +42,6 @@
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 1. Clone the repository: `git clone https://github.com/Ahmad-Alqunbar/Gym-Management-system-.git`
 3. Configure the database: Update `config/Database.php` with your database credentials.
 4. Import the database schema: Run the SQL script provided in `database.sql`.
