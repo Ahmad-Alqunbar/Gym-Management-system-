@@ -5,7 +5,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-<!-- * [Screenshots](#screenshots) -->
+* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -35,16 +35,27 @@
 - **Workout Scheduling:** Schedule and manage workout sessions.
 - **Equipment Management:** Keep a record of gym equipment.
 - **Reports:** Generate reports for various aspects of gym management.
-- **Setting:** Update colors of system .
+
+## Screenshots
+![Example screenshot](./uploads/trainer/add_member.png)
+
+![Example screenshot](./uploads/trainer/user_list.png)
+
+![Example screenshot](./uploads/trainer/role.png)
+
+![Example screenshot](./uploads/trainer/add_trainer.png)
+
+![Example screenshot](./uploads/trainer/setting.png)
 
 
-<!-- ## Screenshots -->
-<!-- ![Example screenshot](./img/screenshot.png) -->
+
+
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
-1. Clone the repository: `git clone https://github.com/Ahmad-Alqunbar/Gym-Management-system-.git`
+What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+1. Clone the repository: `git clone https://github.com/your-username/GymSystem.git`
 3. Configure the database: Update `config/Database.php` with your database credentials.
 4. Import the database schema: Run the SQL script provided in `database.sql`.
 
