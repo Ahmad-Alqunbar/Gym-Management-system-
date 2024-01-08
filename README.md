@@ -41,7 +41,7 @@
 
 ![Example screenshot](./uploads/trainer/user_list.png)
 
-![Example screenshot](./uploads/trainer/role.png)
+![Example screenshot](./uploads/trainer/add_role.png)
 
 ![Example screenshot](./uploads/trainer/add_trainer.png)
 
