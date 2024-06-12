@@ -1,17 +1,14 @@
 <!-- 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=,initial-scale=1.0">
     <title>Fitness</title>
     <link rel="stylesheet" href="style.css">
-
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="    https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">   
 </head>
-
 <body>
     <div class="container mt-5">
         <div class="row m-5 no-gutters shadow-lg">
@@ -35,14 +32,11 @@
                             <button type="submit" class="btn btn-dark w-100 font-weight-bold mt-2">Submit</button>
                         </div>
                     </form>
-            
                 </div>
-
             </div>
         </div>
     </div>
 </body>
-
 </html>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
