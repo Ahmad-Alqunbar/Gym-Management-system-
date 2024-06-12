@@ -1,15 +1,12 @@
 <?php
 include '../layouts/header.php';
-
 $pdo = new PDO("mysql:host=localhost;dbname=gym_sys", "root", "12344321");
-
 if (isset($_GET['id'])) {
     $paymentId = $_GET['id'];
     $stmt = $pdo->prepare("SELECT * FROM payments WHERE payment_id = :id");
     $stmt->bindParam(':id', $paymentId);
     $stmt->execute();
     $payment = $stmt->fetch(PDO::FETCH_ASSOC);
-
     if ($payment) {
         // Display payment details
         echo "<div class='container mt-5'>";
@@ -26,6 +23,5 @@ if (isset($_GET['id'])) {
 } else {
     echo "<div class='container mt-5'><p>Invalid payment ID.</p></div>";
 }
-
 include '../layouts/footer.php';
 ?>
