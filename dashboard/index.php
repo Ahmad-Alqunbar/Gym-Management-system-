@@ -1,7 +1,6 @@
 <?php
  include_once '../layouts/header.php'
  ?>
- 
 <main class="container-fluid">
         <section class="row">
             <div class="col-md-6 col-lg-4">
@@ -33,14 +32,9 @@
                     </a>
                     <br>
                     <p> The date : </p>
-                    
-
                 </article>
             </div>
-
         </section>
-
-
          </main>
           </div>
         </div>
